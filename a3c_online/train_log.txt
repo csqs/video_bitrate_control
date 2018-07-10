@@ -1,0 +1,5 @@
+model_index:0
+avg_reward:0.000000
+avg_td_error:0.000000
+avg_entropy:0.000000
+
