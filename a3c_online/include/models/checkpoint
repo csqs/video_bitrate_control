@@ -1,2 +1,0 @@
-model_checkpoint_path: "graph_a3c"
-all_model_checkpoint_paths: "graph_a3c"
